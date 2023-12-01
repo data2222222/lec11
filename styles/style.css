@@ -137,3 +137,96 @@ i {
   line-height: normal;
   margin-bottom: 8px;
 }
+.photos2 {
+  height: 150px;
+  width: 580px;
+  margin-left: 400px;
+  margin-top: 80px;
+}
+.photos2t1 {
+  color: #5863E3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.photos2t2 {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.mediacontainer {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-between;
+  height: 380px;
+  width: 1400px;
+  margin-left: 250px;
+
+}
+
+.blackcont {
+  width: 1920px;
+  height: 380px;
+  background-color: #000;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.black1 {
+  width: 300px;
+  height: 125px;
+  
+  
+}
+.black2 {
+  width: 300px;
+  height: 125px;
+}
+.black3 {
+  width: 300px;
+  height: 125px;
+}
+.black4 {
+  width: 300px;
+  height: 125px;
+}
+.htls {
+  color: #FFF;
+  font-family: Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.htlinfo {
+  color: #99999A;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.whitetext {
+  color: #FFF;
+  font-family: Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.purpletext {
+  color: #5863E3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

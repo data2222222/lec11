@@ -1,0 +1,41 @@
+
+
+.container {
+    max-width: 1150px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+@media only screen and (max-width: 400px) {
+    .container {
+        width: 90%;
+    }
+
+    .title h2 {
+        font-size: 32px;
+    }
+
+    .left-side,
+    .right-side {
+        width: 100%;
+    }
+
+    .mediacontainer {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+}
